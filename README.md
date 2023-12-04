@@ -1,4 +1,4 @@
-# Evaluate-Posfix
+# Evaluate-Postfix
 Using Assembly MIPS-32 evaluate the posfix value.
 
 The provided MIPS assembly code functions as a postfix expression evaluator. The program prompts the user to 
